@@ -1,2 +1,4 @@
 SystemOutPrintLn("Hello_world")!!!!!!!!!!
 PrintHelloytoeveryone
+Hello
+print("Hello my DearFriend")!!!!
