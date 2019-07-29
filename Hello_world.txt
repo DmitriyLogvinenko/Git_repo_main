@@ -1,2 +1,2 @@
-SystemOutPrintLn("Hello_world")!!!!!!!!!!
-PrintHelloytoeveryone
+SystemOutPrintLn("Hello_world";)!!!!!!!!!!
+PrintHelloytoeveryone;
